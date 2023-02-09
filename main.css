@@ -36,70 +36,70 @@
 
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Regular"), local("Roboto-Regular"), url("/fonts/Roboto-Regular.woff") format("woff"), url("/fonts/Roboto-Regular.woff2") format("woff2");
+  src: local("Roboto Regular"), local("Roboto-Regular"), url("fonts/Roboto-Regular.woff") format("woff"), url("fonts/Roboto-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Bold"), local("Roboto-Bold"), url("/fonts/Roboto-Bold.woff") format("woff"), url("/fonts/Roboto-Bold.woff2") format("woff2");
+  src: local("Roboto Bold"), local("Roboto-Bold"), url("fonts/Roboto-Bold.woff") format("woff"), url("fonts/Roboto-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Regular"), local("TT-Firs-Neue-Regular"), url("/fonts/TTFirsNeue-Regular.woff2") format("woff2"), url("/fonts/TTFirsNeue-Regular.woff") format("woff");
+  src: local("TT Firs Neue Regular"), local("TT-Firs-Neue-Regular"), url("fonts/TTFirsNeue-Regular.woff2") format("woff2"), url("fonts/TTFirsNeue-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Bold"), local("TT-Firs-Neue-Bold"), url("/fonts/TTFirsNeue-Bold.woff2") format("woff2"), url("/fonts/TTFirsNeue-Bold.woff") format("woff");
+  src: local("TT Firs Neue Bold"), local("TT-Firs-Neue-Bold"), url("fonts/TTFirsNeue-Bold.woff2") format("woff2"), url("fonts/TTFirsNeue-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Medium"), local("TT-Firs-Neue-Medium"), url("/fonts/TTFirsNeue-Medium.woff2") format("woff2"), url("/fonts/TTFirsNeue-Medium.woff") format("woff");
+  src: local("TT Firs Neue Medium"), local("TT-Firs-Neue-Medium"), url("fonts/TTFirsNeue-Medium.woff2") format("woff2"), url("fonts/TTFirsNeue-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Regular"), local("Roboto-Regular"), url("/fonts/Roboto-Regular.woff") format("woff"), url("/fonts/Roboto-Regular.woff2") format("woff2");
+  src: local("Roboto Regular"), local("Roboto-Regular"), url("fonts/Roboto-Regular.woff") format("woff"), url("fonts/Roboto-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Bold"), local("Roboto-Bold"), url("/fonts/Roboto-Bold.woff") format("woff"), url("/fonts/Roboto-Bold.woff2") format("woff2");
+  src: local("Roboto Bold"), local("Roboto-Bold"), url("fonts/Roboto-Bold.woff") format("woff"), url("fonts/Roboto-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Regular"), local("TT-Firs-Neue-Regular"), url("/fonts/TTFirsNeue-Regular.woff2") format("woff2"), url("/fonts/TTFirsNeue-Regular.woff") format("woff");
+  src: local("TT Firs Neue Regular"), local("TT-Firs-Neue-Regular"), url("fonts/TTFirsNeue-Regular.woff2") format("woff2"), url("fonts/TTFirsNeue-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Bold"), local("TT-Firs-Neue-Bold"), url("/fonts/TTFirsNeue-Bold.woff2") format("woff2"), url("/fonts/TTFirsNeue-Bold.woff") format("woff");
+  src: local("TT Firs Neue Bold"), local("TT-Firs-Neue-Bold"), url("fonts/TTFirsNeue-Bold.woff2") format("woff2"), url("fonts/TTFirsNeue-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Medium"), local("TT-Firs-Neue-Medium"), url("/fonts/TTFirsNeue-Medium.woff2") format("woff2"), url("/fonts/TTFirsNeue-Medium.woff") format("woff");
+  src: local("TT Firs Neue Medium"), local("TT-Firs-Neue-Medium"), url("fonts/TTFirsNeue-Medium.woff2") format("woff2"), url("fonts/TTFirsNeue-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -156,7 +156,7 @@
     left: 4.5rem;
     width: 2rem;
     height: 2rem;
-    background-image: url("/images/close-btn.svg");
+    background-image: url("images/close-btn.svg");
     background-repeat: no-repeat;
     cursor: pointer;
   }
@@ -441,35 +441,35 @@
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Regular"), local("Roboto-Regular"), url("/fonts/Roboto-Regular.woff") format("woff"), url("/fonts/Roboto-Regular.woff2") format("woff2");
+  src: local("Roboto Regular"), local("Roboto-Regular"), url("fonts/Roboto-Regular.woff") format("woff"), url("fonts/Roboto-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Bold"), local("Roboto-Bold"), url("/fonts/Roboto-Bold.woff") format("woff"), url("/fonts/Roboto-Bold.woff2") format("woff2");
+  src: local("Roboto Bold"), local("Roboto-Bold"), url("fonts/Roboto-Bold.woff") format("woff"), url("fonts/Roboto-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Regular"), local("TT-Firs-Neue-Regular"), url("/fonts/TTFirsNeue-Regular.woff2") format("woff2"), url("/fonts/TTFirsNeue-Regular.woff") format("woff");
+  src: local("TT Firs Neue Regular"), local("TT-Firs-Neue-Regular"), url("fonts/TTFirsNeue-Regular.woff2") format("woff2"), url("fonts/TTFirsNeue-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Bold"), local("TT-Firs-Neue-Bold"), url("/fonts/TTFirsNeue-Bold.woff2") format("woff2"), url("/fonts/TTFirsNeue-Bold.woff") format("woff");
+  src: local("TT Firs Neue Bold"), local("TT-Firs-Neue-Bold"), url("fonts/TTFirsNeue-Bold.woff2") format("woff2"), url("fonts/TTFirsNeue-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Medium"), local("TT-Firs-Neue-Medium"), url("/fonts/TTFirsNeue-Medium.woff2") format("woff2"), url("/fonts/TTFirsNeue-Medium.woff") format("woff");
+  src: local("TT Firs Neue Medium"), local("TT-Firs-Neue-Medium"), url("fonts/TTFirsNeue-Medium.woff2") format("woff2"), url("fonts/TTFirsNeue-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -494,7 +494,7 @@
   min-height: 63rem;
   margin-top: auto;
   padding: 6rem;
-  background-image: url("/images/desktop/picture-1.jpg");
+  background-image: url("images/desktop/picture-1.jpg");
   background-repeat: no-repeat;
   background-clip: border-box;
   grid-column: span 6;
@@ -506,7 +506,7 @@
     grid-row: span 2;
     min-height: 62.3rem;
     padding: 3rem;
-    background-image: url("/images/1024/picture-1.jpg");
+    background-image: url("images/1024/picture-1.jpg");
   }
 }
 @media screen and (max-width: 768px) {
@@ -515,7 +515,7 @@
     grid-row: span 2;
     min-height: 45.2rem;
     padding: 2.8rem;
-    background-image: url("/images/768/picture-1.jpg");
+    background-image: url("images/768/picture-1.jpg");
   }
 }
 @media screen and (max-width: 320px) {
@@ -524,7 +524,7 @@
     grid-row: span 2;
     min-height: 42.2rem;
     padding: 2.8rem;
-    background-image: url("/images/320/picture-1.jpg");
+    background-image: url("images/320/picture-1.jpg");
     object-fit: contain;
   }
 }
@@ -727,35 +727,35 @@
 
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Regular"), local("Roboto-Regular"), url("/fonts/Roboto-Regular.woff") format("woff"), url("/fonts/Roboto-Regular.woff2") format("woff2");
+  src: local("Roboto Regular"), local("Roboto-Regular"), url("fonts/Roboto-Regular.woff") format("woff"), url("fonts/Roboto-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Bold"), local("Roboto-Bold"), url("/fonts/Roboto-Bold.woff") format("woff"), url("/fonts/Roboto-Bold.woff2") format("woff2");
+  src: local("Roboto Bold"), local("Roboto-Bold"), url("fonts/Roboto-Bold.woff") format("woff"), url("fonts/Roboto-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Regular"), local("TT-Firs-Neue-Regular"), url("/fonts/TTFirsNeue-Regular.woff2") format("woff2"), url("/fonts/TTFirsNeue-Regular.woff") format("woff");
+  src: local("TT Firs Neue Regular"), local("TT-Firs-Neue-Regular"), url("fonts/TTFirsNeue-Regular.woff2") format("woff2"), url("fonts/TTFirsNeue-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Bold"), local("TT-Firs-Neue-Bold"), url("/fonts/TTFirsNeue-Bold.woff2") format("woff2"), url("/fonts/TTFirsNeue-Bold.woff") format("woff");
+  src: local("TT Firs Neue Bold"), local("TT-Firs-Neue-Bold"), url("fonts/TTFirsNeue-Bold.woff2") format("woff2"), url("fonts/TTFirsNeue-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Medium"), local("TT-Firs-Neue-Medium"), url("/fonts/TTFirsNeue-Medium.woff2") format("woff2"), url("/fonts/TTFirsNeue-Medium.woff") format("woff");
+  src: local("TT Firs Neue Medium"), local("TT-Firs-Neue-Medium"), url("fonts/TTFirsNeue-Medium.woff2") format("woff2"), url("fonts/TTFirsNeue-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -979,35 +979,35 @@
 
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Regular"), local("Roboto-Regular"), url("/fonts/Roboto-Regular.woff") format("woff"), url("/fonts/Roboto-Regular.woff2") format("woff2");
+  src: local("Roboto Regular"), local("Roboto-Regular"), url("fonts/Roboto-Regular.woff") format("woff"), url("fonts/Roboto-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Bold"), local("Roboto-Bold"), url("/fonts/Roboto-Bold.woff") format("woff"), url("/fonts/Roboto-Bold.woff2") format("woff2");
+  src: local("Roboto Bold"), local("Roboto-Bold"), url("fonts/Roboto-Bold.woff") format("woff"), url("fonts/Roboto-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Regular"), local("TT-Firs-Neue-Regular"), url("/fonts/TTFirsNeue-Regular.woff2") format("woff2"), url("/fonts/TTFirsNeue-Regular.woff") format("woff");
+  src: local("TT Firs Neue Regular"), local("TT-Firs-Neue-Regular"), url("fonts/TTFirsNeue-Regular.woff2") format("woff2"), url("fonts/TTFirsNeue-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Bold"), local("TT-Firs-Neue-Bold"), url("/fonts/TTFirsNeue-Bold.woff2") format("woff2"), url("/fonts/TTFirsNeue-Bold.woff") format("woff");
+  src: local("TT Firs Neue Bold"), local("TT-Firs-Neue-Bold"), url("fonts/TTFirsNeue-Bold.woff2") format("woff2"), url("fonts/TTFirsNeue-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Medium"), local("TT-Firs-Neue-Medium"), url("/fonts/TTFirsNeue-Medium.woff2") format("woff2"), url("/fonts/TTFirsNeue-Medium.woff") format("woff");
+  src: local("TT Firs Neue Medium"), local("TT-Firs-Neue-Medium"), url("fonts/TTFirsNeue-Medium.woff2") format("woff2"), url("fonts/TTFirsNeue-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -1260,47 +1260,47 @@
 }
 .card__img1 {
   max-height: 18.4rem;
-  background-image: url("/images/desktop/our-project-1.jpg");
+  background-image: url("images/desktop/our-project-1.jpg");
 }
 @media screen and (max-width: 1024px) {
   .card__img1 {
-    background-image: url("/images/1024/our-project-1.jpg");
+    background-image: url("images/1024/our-project-1.jpg");
   }
 }
 @media screen and (max-width: 320px) {
   .card__img1 {
-    background-image: url("/images/320/our-project-1.jpg");
+    background-image: url("images/320/our-project-1.jpg");
   }
 }
 .card__img2 {
-  background-image: url("/images/desktop/our-project-2.jpg");
+  background-image: url("images/desktop/our-project-2.jpg");
 }
 @media screen and (max-width: 1024px) {
   .card__img2 {
-    background-image: url("/images/1024/our-project-2.jpg");
+    background-image: url("images/1024/our-project-2.jpg");
   }
 }
 @media screen and (max-width: 320px) {
   .card__img2 {
-    background-image: url("/images/320/our-project-2.jpg");
+    background-image: url("images/320/our-project-2.jpg");
   }
 }
 .card__img3 {
-  background-image: url("/images/desktop/our-project-3.jpg");
+  background-image: url("images/desktop/our-project-3.jpg");
 }
 @media screen and (max-width: 1024px) {
   .card__img3 {
-    background-image: url("/images/1024/our-project-3.jpg");
+    background-image: url("images/1024/our-project-3.jpg");
   }
 }
 @media screen and (max-width: 768px) {
   .card__img3 {
-    background-image: url("/images/768/our-project-3.jpg");
+    background-image: url("images/768/our-project-3.jpg");
   }
 }
 @media screen and (max-width: 320px) {
   .card__img3 {
-    background-image: url("/images/320/our-project-3.jpg");
+    background-image: url("images/320/our-project-3.jpg");
   }
 }
 .card__img4 {
@@ -1309,20 +1309,20 @@
   background-size: cover;
   padding: 2.5rem 2.8rem;
   min-height: 30rem;
-  background-image: url("/images/desktop/our-project-4.jpg");
+  background-image: url("images/desktop/our-project-4.jpg");
 }
 @media screen and (max-width: 1024px) {
   .card__img4 {
     min-height: 30.7rem;
     padding: 3.3rem 3.1rem;
-    background-image: url("/images/1024/our-project-4.jpg");
+    background-image: url("images/1024/our-project-4.jpg");
     margin-bottom: 0;
   }
 }
 @media screen and (max-width: 768px) {
   .card__img4 {
     min-height: 30.1rem;
-    background-image: url("/images/768/our-project-4.jpg");
+    background-image: url("images/768/our-project-4.jpg");
   }
 }
 @media screen and (max-width: 320px) {
@@ -1331,11 +1331,11 @@
     flex-direction: column;
     justify-self: end;
     min-height: 42.2rem;
-    background-image: url("/images/320/our-project-4.jpg");
+    background-image: url("images/320/our-project-4.jpg");
   }
 }
 .card__img4 .card__data {
-  background-image: url("/images/mdi_calendar_today_white.svg");
+  background-image: url("images/mdi_calendar_today_white.svg");
   color: #fff;
 }
 @media screen and (max-width: 320px) {
@@ -1410,14 +1410,14 @@
   background-size: cover;
   padding: 2.5rem 3rem;
   min-height: 30rem;
-  background-image: url("/images/desktop/our-project-5.jpg");
+  background-image: url("images/desktop/our-project-5.jpg");
 }
 @media screen and (max-width: 1024px) {
   .card__img5 {
     min-height: 30.7rem;
     padding: 3.3rem 3.1rem;
     margin-bottom: 0;
-    background-image: url("/images/1024/our-project-5.jpg");
+    background-image: url("images/1024/our-project-5.jpg");
   }
 }
 @media screen and (max-width: 768px) {
@@ -1425,7 +1425,7 @@
     margin-top: 0.5rem;
     padding: 3.3rem 3rem;
     min-height: 30.1rem;
-    background-image: url("/images/768/our-project-5.jpg");
+    background-image: url("images/768/our-project-5.jpg");
   }
 }
 @media screen and (max-width: 320px) {
@@ -1435,14 +1435,14 @@
     flex-direction: column;
     justify-self: end;
     min-height: 42.2rem;
-    background-image: url("/images/320/our-project-5.jpg");
+    background-image: url("images/320/our-project-5.jpg");
   }
   .card__img5 .card__hashtag {
     margin-top: -1.2rem;
   }
 }
 .card__img5 .card__data {
-  background-image: url("/images/mdi_calendar_today_white.svg");
+  background-image: url("images/mdi_calendar_today_white.svg");
   color: #fff;
 }
 @media screen and (max-width: 320px) {
@@ -1516,24 +1516,24 @@
   background-color: #FF6E30;
 }
 .card__img6 {
-  background-image: url("/images/desktop/our-project-6.jpg");
+  background-image: url("images/desktop/our-project-6.jpg");
 }
 @media screen and (max-width: 1024px) {
   .card__img6 {
-    background-image: url("/images/1024/our-project-6.jpg");
+    background-image: url("images/1024/our-project-6.jpg");
   }
 }
 @media screen and (max-width: 320px) {
   .card__img6 {
-    background-image: url("/images/320/our-project-6.jpg");
+    background-image: url("images/320/our-project-6.jpg");
   }
 }
 .card__img7 {
-  background-image: url("/images/desktop/our-project-7.jpg");
+  background-image: url("images/desktop/our-project-7.jpg");
 }
 @media screen and (max-width: 1024px) {
   .card__img7 {
-    background-image: url("/images/1024/our-project-7.jpg");
+    background-image: url("images/1024/our-project-7.jpg");
   }
 }
 @media screen and (max-width: 768px) {
@@ -1543,7 +1543,7 @@
 }
 @media screen and (max-width: 320px) {
   .card__img7 {
-    background-image: url("/images/320/our-project-7.jpg");
+    background-image: url("images/320/our-project-7.jpg");
   }
 }
 .card__hashtag {
@@ -1603,41 +1603,41 @@
   font-size: 1.2rem;
   line-height: 139%;
   color: #999999;
-  background-image: url("/images/mdi_calendar_today.svg");
+  background-image: url("images/mdi_calendar_today.svg");
   background-repeat: no-repeat;
 }
 
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Regular"), local("Roboto-Regular"), url("/fonts/Roboto-Regular.woff") format("woff"), url("/fonts/Roboto-Regular.woff2") format("woff2");
+  src: local("Roboto Regular"), local("Roboto-Regular"), url("fonts/Roboto-Regular.woff") format("woff"), url("fonts/Roboto-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Bold"), local("Roboto-Bold"), url("/fonts/Roboto-Bold.woff") format("woff"), url("/fonts/Roboto-Bold.woff2") format("woff2");
+  src: local("Roboto Bold"), local("Roboto-Bold"), url("fonts/Roboto-Bold.woff") format("woff"), url("fonts/Roboto-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Regular"), local("TT-Firs-Neue-Regular"), url("/fonts/TTFirsNeue-Regular.woff2") format("woff2"), url("/fonts/TTFirsNeue-Regular.woff") format("woff");
+  src: local("TT Firs Neue Regular"), local("TT-Firs-Neue-Regular"), url("fonts/TTFirsNeue-Regular.woff2") format("woff2"), url("fonts/TTFirsNeue-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Bold"), local("TT-Firs-Neue-Bold"), url("/fonts/TTFirsNeue-Bold.woff2") format("woff2"), url("/fonts/TTFirsNeue-Bold.woff") format("woff");
+  src: local("TT Firs Neue Bold"), local("TT-Firs-Neue-Bold"), url("fonts/TTFirsNeue-Bold.woff2") format("woff2"), url("fonts/TTFirsNeue-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Medium"), local("TT-Firs-Neue-Medium"), url("/fonts/TTFirsNeue-Medium.woff2") format("woff2"), url("/fonts/TTFirsNeue-Medium.woff") format("woff");
+  src: local("TT Firs Neue Medium"), local("TT-Firs-Neue-Medium"), url("fonts/TTFirsNeue-Medium.woff2") format("woff2"), url("fonts/TTFirsNeue-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -1788,7 +1788,7 @@
   right: 2rem;
   width: 2rem;
   height: 2rem;
-  background-image: url("/images/close-btn.svg");
+  background-image: url("images/close-btn.svg");
   background-repeat: no-repeat;
   cursor: pointer;
 }
@@ -1834,7 +1834,7 @@
 }
 .address__phone {
   padding-left: 2rem;
-  background-image: url("/images/phone.svg");
+  background-image: url("images/phone.svg");
   background-repeat: no-repeat;
   font-family: "TT Firs Neue", sans-serif;
   line-height: 131%;
@@ -1942,35 +1942,35 @@
 
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Regular"), local("Roboto-Regular"), url("/fonts/Roboto-Regular.woff") format("woff"), url("/fonts/Roboto-Regular.woff2") format("woff2");
+  src: local("Roboto Regular"), local("Roboto-Regular"), url("fonts/Roboto-Regular.woff") format("woff"), url("fonts/Roboto-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Bold"), local("Roboto-Bold"), url("/fonts/Roboto-Bold.woff") format("woff"), url("/fonts/Roboto-Bold.woff2") format("woff2");
+  src: local("Roboto Bold"), local("Roboto-Bold"), url("fonts/Roboto-Bold.woff") format("woff"), url("fonts/Roboto-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Regular"), local("TT-Firs-Neue-Regular"), url("/fonts/TTFirsNeue-Regular.woff2") format("woff2"), url("/fonts/TTFirsNeue-Regular.woff") format("woff");
+  src: local("TT Firs Neue Regular"), local("TT-Firs-Neue-Regular"), url("fonts/TTFirsNeue-Regular.woff2") format("woff2"), url("fonts/TTFirsNeue-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Bold"), local("TT-Firs-Neue-Bold"), url("/fonts/TTFirsNeue-Bold.woff2") format("woff2"), url("/fonts/TTFirsNeue-Bold.woff") format("woff");
+  src: local("TT Firs Neue Bold"), local("TT-Firs-Neue-Bold"), url("fonts/TTFirsNeue-Bold.woff2") format("woff2"), url("fonts/TTFirsNeue-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TT Firs Neue";
-  src: local("TT Firs Neue Medium"), local("TT-Firs-Neue-Medium"), url("/fonts/TTFirsNeue-Medium.woff2") format("woff2"), url("/fonts/TTFirsNeue-Medium.woff") format("woff");
+  src: local("TT Firs Neue Medium"), local("TT-Firs-Neue-Medium"), url("fonts/TTFirsNeue-Medium.woff2") format("woff2"), url("fonts/TTFirsNeue-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
